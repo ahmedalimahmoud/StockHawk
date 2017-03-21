@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">صقر الاسهم</string>
+    <string name="dialog_add">اضف</string>
+    <string name="dialog_cancel">الغاء</string>
+    <string name="error_no_network">لا يوجد اتصال بالانترنت ,سيتم تحميل الاسهم عند الاتصال بالانترنت</string>
+    <string name="error_no_stocks">لم يتم اضافة سهم ,اضغط على الزر العائم لاضافة سهم</string>
+    <string name="dialog_title">اضف سهم</string>
+    <string name="dialog_hint">عَلاَمَة(مثال.GOOG)</string>
+    <string name="toast_stock_added_no_connectivity">السهم %s اضيف ,سيتم الحديث عند الاتصال بالشبكة</string>
+    <string name="toast_no_connectivity">سيتم التحديث عند الاتصال بالشبكة</string>
+    <string name="error">رسالة خطأ</string>
+    <string name="add_Description">هذا الزر سوف يضيف سهم جديد لاسهمك</string>
+    <string name="notStock">لا يوجد سهم بهذا الاسم</string>
+    <string name="price_label">السعر :</string>
+    <string name="symbol_label">الرمز :</string>
+    <string name="widget_title"> الاسهم</string>
+</resources>
